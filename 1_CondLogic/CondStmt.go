@@ -8,12 +8,12 @@ import (
 
 type college struct {
 	Name string
-	city string
+	City string
 }
 
 type state struct {
 	college
-	cond bool
+	Cond bool
 }
 
 
@@ -23,15 +23,15 @@ func main() {
 	st := state{
 		college: college{
 			Name: "Califoria state university",
-			city: "Fresno",
+			City: "Fresno",
 		},
-		cond: false,
+		Cond: false,
 	}
 
 	if st.Name == "Califoria state university"{
-		st.cond = true
+		st.Cond = true
 	}else if st.Name == "Standford state university"{
-		st.cond = false
+		st.Cond = false
 	}
 	tpl, err := template.ParseFiles("college.gohtml")
 	if err != nil {
