@@ -2,23 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48d39b9c-3ef5-421b-b96b-c47e22af763a" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_1_Challanges/Exercise1/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise1/main.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_1_Challanges/Exercise2/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise2/main.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_1_Challanges/Exercise3/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise3/main.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_1_Challanges/Exercise4/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise4/main.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_1_Challanges/Exercise5/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise5/main.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_1_Challanges/Exercise6/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise6/main.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_1_Challanges/Exercise7/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise7/main.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_2_Challanges/Exercise1/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise1/main.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_2_Challanges/Exercise2/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise2/main.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_2_Challanges/Exercise3/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise3/main.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_2_Challanges/Exercise4/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise4/main.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_2_Challanges/Exercise5/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise5/main.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Go_SDK.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Go_SDK.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1_CondLogic/CondStmt.go" afterPath="$PROJECT_DIR$/1_CondLogic/CondStmt.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1_CondLogic/college.gohtml" afterPath="$PROJECT_DIR$/1_CondLogic/college.gohtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2_GoVariableType/VarType.go" afterPath="$PROJECT_DIR$/2_GoVariableType/VarType.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise1/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise1/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise2/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise2/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise3/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise3/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise4/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise4/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise5/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise5/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise6/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise6/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise7/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise7/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise1/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise1/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise2/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise2/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise3/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise3/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise4/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise4/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise5/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise5/main.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test1.go" afterPath="$PROJECT_DIR$/test/test1.go" />
     </list>
     <ignored path="GoLangRepository.iws" />
