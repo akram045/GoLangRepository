@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;GoLangRepository&gt;">
+    <CLASSES>
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/github.com" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/GoLangRepository" />
+    </CLASSES>
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/github.com/nu7hatch/gouuid/.git" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/GoLangRepository/.idea" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/GoLangRepository/.git" />
+    </excluded>
+  </library>
+</component>

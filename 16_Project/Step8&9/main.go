@@ -35,8 +35,8 @@ type UserData struct {
 }
 
 var validUsers = []User{
-	{UserName: "Mahdi", Password: "123"},
-	{UserName: "Amin", Password: "321"},
+	{UserName: "Akram", Password: "123"},
+	{UserName: "Khan", Password: "321"},
 }
 
 // Login handler which validates if teh user logged in is authorized. If not, it shows an error message.
