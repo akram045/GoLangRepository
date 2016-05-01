@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en"
+      style="background: url('https://upload.wikimedia.org/wikipedia/commons/b/be/Random_pyramids.jpg') no-repeat center center fixed;">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div
+        style="position: fixed; top: 50%; left: 50%; font-size: 40px; color: white;"
+        id="content"></div>
+</body>
+<script type="text/javascript">
+    var content = document.getElementById('content')
+    var qoutes = [ "Fun to play here", "Love Go Programming", "Long way to go ...","Have to learn many more things" ];
+    var images = [
+        "http://pic.1fotonin.com/data/wallpapers/130/WDF_1724125.jpg",
+        "http://www.moderndignity.com/wp-content/uploads/2012/05/High-quality-Lions-Wallpaper.jpg" ];
+    var index = getRandomIndex(qoutes);
+    content.innerHTML = qoutes[index];
+    index = getRandomIndex(images);
+    var style = "background: url('%s') no-repeat center center fixed;".split(
+            '%s').join(images[index]);
+    document.documentElement.setAttribute('style', style);
+    window.setTimeout(function() {
+        location.reload();
+    }, 4000);
+    function getRandomIndex(array) {
+        return Math.floor(Math.random() * array.length);
+    }
+</script>
+</html>
