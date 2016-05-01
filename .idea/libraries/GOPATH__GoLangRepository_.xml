@@ -1,15 +1,34 @@
 <component name="libraryTable">
   <library name="GOPATH &lt;GoLangRepository&gt;">
     <CLASSES>
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/GoProject" />
       <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/github.com" />
       <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/GoLangRepository" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/golang.org" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/google.golang.org" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/temp" />
     </CLASSES>
     <SOURCES />
     <excluded>
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/golang.org/x/net/bpf/testdata" />
       <root url="file://$PROJECT_DIR$" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/golang.org/x/net/http2/testdata" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/GoProject/.idea" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/github.com/momazia/GoProject/.idea" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/golang.org/x/net/html/testdata" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/GoProject/.git" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/github.com/golang/protobuf/.git" />
       <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/github.com/nu7hatch/gouuid/.git" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/temp/GoProject/.git" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/github.com/golang/protobuf/protoc-gen-go/testdata" />
       <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/GoLangRepository/.idea" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/temp/GoProject/.idea" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/github.com/golang/protobuf/proto/testdata" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/golang.org/x/net/.git" />
       <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/GoLangRepository/.git" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/google.golang.org/appengine/.git" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/github.com/momazia/GoProject/.git" />
+      <root url="file://D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/golang.org/x/net/html/charset/testdata" />
     </excluded>
   </library>
 </component>

@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48d39b9c-3ef5-421b-b96b-c47e22af763a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Go_SDK.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Go_SDK.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10_httpReq_user_input_display/main.go" afterPath="$PROJECT_DIR$/10_httpReq_user_input_display/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11_req_form_Display_File_cont/file.txt" afterPath="$PROJECT_DIR$/11_req_form_Display_File_cont/file.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11_req_form_Display_File_cont/main.go" afterPath="$PROJECT_DIR$/11_req_form_Display_File_cont/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/12_CookieTrackWebpage/main.go" afterPath="$PROJECT_DIR$/12_CookieTrackWebpage/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/13_CookieWriteOnClient/main.go" afterPath="$PROJECT_DIR$/13_CookieWriteOnClient/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/14_storingSessiondataInCookie/main.go" afterPath="$PROJECT_DIR$/14_storingSessiondataInCookie/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/15_WebPageUsingTLS/cert.pem" afterPath="$PROJECT_DIR$/15_WebPageUsingTLS/cert.pem" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/15_WebPageUsingTLS/key.pem" afterPath="$PROJECT_DIR$/15_WebPageUsingTLS/key.pem" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/15_WebPageUsingTLS/main.go" afterPath="$PROJECT_DIR$/15_WebPageUsingTLS/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_Project/Step1-WebApplication/login.html" afterPath="$PROJECT_DIR$/16_Project/Step1-WebApplication/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_Project/Step1-WebApplication/main.go" afterPath="$PROJECT_DIR$/16_Project/Step1-WebApplication/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_Project/Step2/login.html" afterPath="$PROJECT_DIR$/16_Project/Step2/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_Project/Step2/main.go" afterPath="$PROJECT_DIR$/16_Project/Step2/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_Project/Step3/login.html" afterPath="$PROJECT_DIR$/16_Project/Step3/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_Project/Step3/main.go" afterPath="$PROJECT_DIR$/16_Project/Step3/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_Project/Step4/login.html" afterPath="$PROJECT_DIR$/16_Project/Step4/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_Project/Step4/main.go" afterPath="$PROJECT_DIR$/16_Project/Step4/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_Project/Step5/login.html" afterPath="$PROJECT_DIR$/16_Project/Step5/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_Project/Step5/main.go" afterPath="$PROJECT_DIR$/16_Project/Step5/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_Project/Step6/login.html" afterPath="$PROJECT_DIR$/16_Project/Step6/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_Project/Step6/main.go" afterPath="$PROJECT_DIR$/16_Project/Step6/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_Project/Step7/login.html" afterPath="$PROJECT_DIR$/16_Project/Step7/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_Project/Step7/main.go" afterPath="$PROJECT_DIR$/16_Project/Step7/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_Project/Step8&amp;9/login.html" afterPath="$PROJECT_DIR$/16_Project/Step8&amp;9/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_Project/Step8&amp;9/main.go" afterPath="$PROJECT_DIR$/16_Project/Step8&amp;9/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_Project/Step8&amp;9/userForm.html" afterPath="$PROJECT_DIR$/16_Project/Step8&amp;9/userForm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1_CondLogic/CondStmt.go" afterPath="$PROJECT_DIR$/1_CondLogic/CondStmt.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1_CondLogic/college.gohtml" afterPath="$PROJECT_DIR$/1_CondLogic/college.gohtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2_GoVariableType/VarType.go" afterPath="$PROJECT_DIR$/2_GoVariableType/VarType.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise1/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise1/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise2/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise2/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise3/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise3/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise4/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise4/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise5/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise5/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise6/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise6/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise7/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_1_Challanges/Exercise7/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise1/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise1/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise2/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise2/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise3/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise3/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise4/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise4/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise5/main.go" afterPath="$PROJECT_DIR$/3_Challanges/3_2_Challanges/Exercise5/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4_SurfPage/Public/css/reset.css" afterPath="$PROJECT_DIR$/4_SurfPage/Public/css/reset.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4_SurfPage/Public/css/style.css" afterPath="$PROJECT_DIR$/4_SurfPage/Public/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4_SurfPage/main.go" afterPath="$PROJECT_DIR$/4_SurfPage/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4_SurfPage/templates/index.gohtml" afterPath="$PROJECT_DIR$/4_SurfPage/templates/index.gohtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/7_Url_httpReq/main.go" afterPath="$PROJECT_DIR$/7_Url_httpReq/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/8_Url_httpReq_url/main.go" afterPath="$PROJECT_DIR$/8_Url_httpReq_url/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/9_Url_HttpReq_name/main.go" afterPath="$PROJECT_DIR$/9_Url_HttpReq_name/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test1.go" afterPath="$PROJECT_DIR$/test/test1.go" />
-    </list>
+    <list default="true" id="48d39b9c-3ef5-421b-b96b-c47e22af763a" name="Default" comment="" />
     <ignored path="GoLangRepository.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,13 +20,35 @@
     <favorites_list name="GoLangRepository" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AJAX/static/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.23065694">
+              <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AJAX/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.8461537">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="Go File" />
       </list>
     </option>
   </component>
@@ -88,12 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1_CondLogic/college.gohtml" />
-        <option value="$PROJECT_DIR$/test/test1.go" />
-        <option value="$PROJECT_DIR$/3_Challanges/HelloWorld.go" />
-        <option value="$PROJECT_DIR$/3_Challanges/Exercise2/HelloWorld.go" />
-        <option value="$PROJECT_DIR$/3_Challanges/Exercise3/HelloWorld.go" />
-        <option value="$PROJECT_DIR$/3_Challanges/Exercise3/main.go" />
         <option value="$PROJECT_DIR$/3_Challanges/Exercise4/main.go" />
         <option value="$PROJECT_DIR$/3_Challanges/Exercise5/main.go" />
         <option value="$PROJECT_DIR$/3_Challanges/Exercise6/main.go" />
@@ -139,6 +103,12 @@
         <option value="$PROJECT_DIR$/16_Project/Step8/login.html" />
         <option value="$PROJECT_DIR$/16_Project/Step8/main.go" />
         <option value="$PROJECT_DIR$/16_Project/Step8/userForm.html" />
+        <option value="$PROJECT_DIR$/AJAX/static/app.yaml" />
+        <option value="$PROJECT_DIR$/AJAX/static/index.html" />
+        <option value="$PROJECT_DIR$/AJAX/main.go" />
+        <option value="$PROJECT_DIR$/AJAX/static/main.js" />
+        <option value="$PROJECT_DIR$/AJAX/index.html" />
+        <option value="$PROJECT_DIR$/AJAX/static/main.css" />
       </list>
     </option>
   </component>
@@ -149,8 +119,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
-    <option name="width" value="1932" />
-    <option name="height" value="1038" />
+    <option name="width" value="1604" />
+    <option name="height" value="904" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -177,7 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -186,13 +155,56 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoLangRepository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoLangRepository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoLangRepository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoLangRepository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AJAX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoLangRepository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoLangRepository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AJAX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="D:/Study_Documents/Spring2016/CSCI 130-Web Prog/GoCode/src/GoLangRepository" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -203,17 +215,18 @@
     <property name="configurable.Module.libraries.is.expanded" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Akram\Documents\GitHub\GoLangRepository\AJAX" />
+      <recent name="C:\Users\Akram\Documents\GitHub\GoLangRepository\3_Challanges" />
+      <recent name="C:\Users\Akram\Documents\GitHub\GoLangRepository\3_2_Challanges\Exercise1" />
+      <recent name="C:\Users\Akram\Documents\GitHub\GoLangRepository\3_Challanges\Exercise1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Akram\Documents\GitHub\GoLangRepository\3_Challanges\Exercise7" />
       <recent name="C:\Users\Akram\Documents\GitHub\GoLangRepository\3_Challanges\Exercise6" />
       <recent name="C:\Users\Akram\Documents\GitHub\GoLangRepository\3_Challanges\Exercise5" />
       <recent name="C:\Users\Akram\Documents\GitHub\GoLangRepository\3_Challanges\Exercise4" />
       <recent name="C:\Users\Akram\Documents\GitHub\GoLangRepository\3_Challanges\Exercise3" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Akram\Documents\GitHub\GoLangRepository\3_Challanges" />
-      <recent name="C:\Users\Akram\Documents\GitHub\GoLangRepository\3_2_Challanges\Exercise1" />
-      <recent name="C:\Users\Akram\Documents\GitHub\GoLangRepository\3_Challanges\Exercise1" />
     </key>
   </component>
   <component name="RunManager">
@@ -301,10 +314,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="0" width="1932" height="1038" extended-state="0" />
-    <editor active="false" />
+    <frame x="-9" y="0" width="1604" height="904" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24937028" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -338,41 +351,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2_GoVariableType/VarType.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_CondLogic/college.gohtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test1.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_SurfPage/public/css/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.945679">
-          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_SurfPage/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.945679">
-          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/11_req_form_Display_File_cont/file.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.078478">
@@ -629,9 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.05231867">
           <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
-          <folding>
-            <element signature="e#77#123#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -639,9 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.026159335">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#401#513#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -649,9 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.026159335">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#154#266#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -659,9 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.078478">
           <caret line="3" column="143" selection-start-line="3" selection-start-column="143" selection-end-line="3" selection-end-column="143" />
-          <folding>
-            <element signature="e#240#316#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -669,9 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.05231867">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#213#370#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -679,9 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-          <folding>
-            <element signature="e#253#410#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -689,9 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-          <folding>
-            <element signature="e#230#377#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -699,7 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -707,9 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-          <folding>
-            <element signature="e#281#393#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -717,6 +670,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.65185183">
           <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAX/static/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47819972">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAX/app.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16081081">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAX/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023909986">
+          <caret line="1" column="131" selection-start-line="1" selection-start-column="128" selection-end-line="1" selection-end-column="131" />
+          <folding>
+            <element signature="e#389#517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAX/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.8461537">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAX/static/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23065694">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
           <folding />
         </state>
       </provider>
