@@ -1,4 +1,4 @@
-application: gotraining-1271
+application: samplestore-1303
 version: v1
 runtime: go
 api_version: go1

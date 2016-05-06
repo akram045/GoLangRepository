@@ -12,7 +12,7 @@ import (
 	"net/http"
 )
 
-const BUCKET_NAME = "gotraining-1271.appspot.com"
+const BUCKET_NAME = "samplestore-1303.appspot.com"
 
 func init() {
 	http.Handle("/css/", http.StripPrefix("/css", http.FileServer(http.Dir("./css"))))
