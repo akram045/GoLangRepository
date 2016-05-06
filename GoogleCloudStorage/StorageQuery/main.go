@@ -1,6 +1,4 @@
 /*
-	Source: 		Column CD in Gradebook
-	Author: 		Mohamad Mahdi Ziaee
 	Description:	Modify the code from the previous exercise and limit your query result
 */
 
